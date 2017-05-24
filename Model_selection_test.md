@@ -209,12 +209,12 @@ Varibales that vary are
 
 ### First, Check predicted production vs observed production for each day. The results look good.
 
-![](Model_selection_test_files/figure-markdown_github/unnamed-chunk-14-1.png)![](Model_selection_test_files/figure-markdown_github/unnamed-chunk-14-2.png)![](Model_selection_test_files/figure-markdown_github/unnamed-chunk-14-3.png)
+![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-14-1.png)![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-14-2.png)![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-14-3.png)
 
 ### Check histogram distribution for each day. The residuals are centered around 0 but there are some outliers beyond the 2-4 standard deviation expected. The red lines show the maximum andminimum residual values.
 
-![](Model_selection_test_files/figure-markdown_github/unnamed-chunk-15-1.png)![](Model_selection_test_files/figure-markdown_github/unnamed-chunk-15-2.png)![](Model_selection_test_files/figure-markdown_github/unnamed-chunk-15-3.png)
+![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-15-1.png)![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-15-2.png)![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-15-3.png)
 
 ### Q-Q plots for each day
 
-![](Model_selection_test_files/figure-markdown_github/unnamed-chunk-16-1.png)
+![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-16-1.png)

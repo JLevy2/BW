@@ -99,7 +99,7 @@ Results<-
 
 ### Use the top 5% of models based on RMSE to narrow down model selection. Models producing values to the left of the red line will be considered for the best model. Model settings that are not found in the top 5% will be omitted from further model testing.
 
-![](Model_selection_test_files/figure-markdown_github/unnamed-chunk-8-1.png)
+![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-8-1.png)
 
 ### Create a new dataset containing only the top 5% of models.Identify how many unique datasets are in this group.
 

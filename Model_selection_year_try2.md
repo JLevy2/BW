@@ -118,7 +118,7 @@ Results<-
 
 ### Use the top 5% of models in each year, based on RMSE, to narrow down model selection. To the left of the red lines shows the top 5% of models in each year.
 
-![](Model_selection_year_try2_files/figure-markdown_github/unnamed-chunk-7-1.png)![](Model_selection_year_try2_files/figure-markdown_github/unnamed-chunk-7-2.png)![](Model_selection_year_try2_files/figure-markdown_github/unnamed-chunk-7-3.png)![](Model_selection_year_try2_files/figure-markdown_github/unnamed-chunk-7-4.png)
+![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-7-1.png)![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-7-2.png)![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-7-3.png)![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-7-4.png)
 
 ### Check to see if any of the same models make it into the top 5% for each year
 

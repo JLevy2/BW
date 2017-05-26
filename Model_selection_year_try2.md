@@ -136,19 +136,19 @@ Results<-
 
 ### For each model-year combination, how does the RMSE value compare to the top performing model? Model ID's are labeled on the right.This first set of graphs is for models that made the top 5% for 8 years. The patterns for models that made the top 5% for 7 yrs and 6 yrs were evaluted. OVerall, the models all perform poorly in 2012. Because results were similar, only models occuring 8/13 yrs will be shown.
 
-![](Model_selection_year_try2_files/figure-markdown_github/unnamed-chunk-9-1.png)
+![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-9-1.png)
 
 ### Look at the top 10 models that performed well in 2012. 2012 was a drought year.They perform poorly in 2016. 2014-2016 were high yield years.
 
-![](Model_selection_year_try2_files/figure-markdown_github/unnamed-chunk-10-1.png)
+![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-10-1.png)
 
 ### Find 2016 delta RMSE for all models that performed well in 2012. The top models in this group will be looked at for further consideration.
 
-![](Model_selection_year_try2_files/figure-markdown_github/unnamed-chunk-13-1.png)
+![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-13-1.png)
 
 ### look at 5 models in top 5% for 2012 with the lowest RMSE for 2016.
 
-![](Model_selection_year_try2_files/figure-markdown_github/unnamed-chunk-14-1.png)
+![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-14-1.png)
 
 ### Compare model performance for the top 20 models in the top 5% for 2012, with the lowest RMSE for 2016. Look at how many years each model has the best and worst RMSE in the selected group. Model 1775 is never the worst and is the best in the group for 4 of the 13 yrs.
 
@@ -172,7 +172,7 @@ Results<-
 
 ### This might come down to which is more important to get right, the high yield years or the low yield years.
 
-![](Model_selection_year_try2_files/figure-markdown_github/unnamed-chunk-16-1.png)
+![](https://github.com/JLevy2/BW/blob/master/unnamed-chunk-16-1.png)
 
 How close do these two models come to matching the actual national harvest? I do not have this information yet.
 
